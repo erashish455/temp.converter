@@ -1,0 +1,21 @@
+.body {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+input {
+    font-size: 21px;
+    background-color: antiquewhite;
+    color: black;
+}
+
+button {
+    font-size: large;
+    background-color: aqua;
+    color: blue;
+}
+
+body h5 {
+    font-size: large;
+    display: revert;
+}
